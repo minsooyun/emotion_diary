@@ -15,3 +15,7 @@
 
 - 데이터를 추가 / 수정 / 삭제
 - Local Storage 를 이용해 웹 브라우저를 DB처럼 이용
+
+
+### Preview
+![감정일기장480](https://github.com/minsooyun/emotion_diary/assets/147911827/ff022fbe-db3c-4cf9-be64-f601ec8050f8)
